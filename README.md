@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: SYAHIN SYAH
 - ⚡ Fun fact: I Love Pop Punk Music
 
-<img src="https://github-readme-stats.vercel.app/api?username=SyahinSyah&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=#ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=SyahinSyah&&show_icons=true&title_color=#000000&icon_color=#000000&text_color=#000000&bg_color=ffffff">
